@@ -1,4 +1,4 @@
-package com.techprimers.security.springsecurityclient;
+package com.security.springsecurityclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
